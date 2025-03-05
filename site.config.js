@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "随风而动，任心而行",
     email: "write.here@foxmail.com",
     linkedin: "",
-    gitbub: "Freddie-Fu-Git",
+    github: "Freddie-Fu-Git",
     instagram: "",
   },
   projects: [
